@@ -2,7 +2,7 @@
 Outil pédagogique d'analyse et d'amélioration de prompts pour les équipes métier : diagnostique une demande utilisateur, identifie ses lacunes, et génère un prompt structuré et directement exploitable dans n'importe quel outil d'IA générative.
 
 ## Objectif
-Accompagner les collaborateurs dans l'apprentissage du prompt engineering en transformant une demande floue en prompt optimisé, tout en expliquant les erreurs commises et les règles à retenir — pour développer l'autonomie et réduire le temps de formulation de plus de 70%.
+Accompagner les collaborateurs dans l'apprentissage du prompt engineering en transformant une demande floue en prompt optimisé, tout en expliquant les erreurs commises et les règles à retenir, pour développer l'autonomie et réduire le temps de formulation de plus de 70%.
 
 ## Stack technique
 
@@ -46,13 +46,13 @@ Formulaire HTML (saisie utilisateur)
 L'agent évalue automatiquement la qualité de la demande initiale : niveau de clarté (faible / moyen / élevé), score sur 10, type de tâche détecté et stratégie recommandée pour améliorer la demande.
 
 **Identification des lacunes et des risques**
-Le système détecte les informations manquantes et les risques concrets liés à une demande trop vague — par exemple, une offre d'emploi peu attractive ou une analyse de CV non ciblée.
+Le système détecte les informations manquantes et les risques concrets liés à une demande trop vague : par exemple, une offre d'emploi peu attractive ou un problème technique dans le processus opérationnel.
 
 **Aide à la reformulation**
 Trois leviers d'aide sont proposés simultanément : suggestions concrètes, questions à compléter, et template vierge adapté au type de demande et au pôle métier.
 
 **Coaching personnalisé**
-L'agent détecte le niveau de l'utilisateur (débutant / intermédiaire / avancé), identifie son erreur principale et formule une règle universelle à retenir — pour que chaque session soit une leçon, pas juste un résultat.
+L'agent détecte le niveau de l'utilisateur (débutant / intermédiaire / avancé), identifie son erreur principale et formule une règle universelle à retenir pour que chaque session soit une leçon, pas juste un résultat.
 
 **Prompt optimisé téléchargeable**
 La demande initiale est transformée en prompt structuré, clair et réutilisable, directement exploitable dans ChatGPT, Claude ou tout autre LLM. Exportable en .txt en un clic.
@@ -64,6 +64,7 @@ L'analyse et le ton sont adaptés automatiquement au pôle métier sélectionné
 - Temps de formulation d'un prompt réduit de plus de 70%
 - Prompt exploitable généré en moins de 15 secondes
 - Compréhension des erreurs de formulation dès la première utilisation
+- Obtention des meilleures réponses possibles 
 - Applicable à tous les cas d'usage métier sans configuration supplémentaire
 
 ## Contenu du repository
